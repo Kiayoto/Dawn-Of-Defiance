@@ -1,0 +1,22 @@
+{
+  "name": "dawnofdefiance",
+  "title": "Dawn of Defiance",
+  "description": "<p>Dawn of Defiance is the name given to a series of 10 linked adventures that Gamemasters can use to create an entire campaign for their players. Set in the months after the events of Revenge of the Sith, the adventures in the Dawn of Defiance campaign are designed to provide players and GMs with the iconic SW5e experience, set against the backdrop of the tyranny of the Galactic Empire.</p>\n<p>The Dawn of Defiance campaign takes the heroes all the way from 1st level up to 20th level, and features an ongoing storyline that progresses over the course of the campaign. Each adventure can also be played individually, and should provide the heroes with ample challenges to gain two levels per adventure. Gamemasters should feel free to use the Dawn of Defiance adventures either as an entire campaign or as fillers for their own home campaigns</p>",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "sw5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "http://pm1.narvii.com/6941/584de7a0d76c893919be060b7108a21a98b9abbcr1-1920-1080v2_uhq.jpg",
+  "coreVersion": "9.280",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.6.2.2.2.3"
+}
